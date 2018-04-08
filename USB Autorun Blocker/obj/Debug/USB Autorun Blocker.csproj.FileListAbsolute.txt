@@ -1,0 +1,9 @@
+C:\Users\ismail\Desktop\USB Autorun Blocker\USB Autorun Blocker\bin\Debug\USB Autorun Blocker.exe.config
+C:\Users\ismail\Desktop\USB Autorun Blocker\USB Autorun Blocker\bin\Debug\USB Autorun Blocker.exe
+C:\Users\ismail\Desktop\USB Autorun Blocker\USB Autorun Blocker\bin\Debug\USB Autorun Blocker.pdb
+C:\Users\ismail\Desktop\USB Autorun Blocker\USB Autorun Blocker\obj\Debug\USB Autorun Blocker.csprojResolveAssemblyReference.cache
+C:\Users\ismail\Desktop\USB Autorun Blocker\USB Autorun Blocker\obj\Debug\USB_Autorun_Blocker.Frm_Main.resources
+C:\Users\ismail\Desktop\USB Autorun Blocker\USB Autorun Blocker\obj\Debug\USB_Autorun_Blocker.Properties.Resources.resources
+C:\Users\ismail\Desktop\USB Autorun Blocker\USB Autorun Blocker\obj\Debug\USB Autorun Blocker.csproj.GenerateResource.Cache
+C:\Users\ismail\Desktop\USB Autorun Blocker\USB Autorun Blocker\obj\Debug\USB Autorun Blocker.exe
+C:\Users\ismail\Desktop\USB Autorun Blocker\USB Autorun Blocker\obj\Debug\USB Autorun Blocker.pdb
